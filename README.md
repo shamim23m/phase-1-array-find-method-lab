@@ -30,9 +30,9 @@ Superbowl. Our data looks like this:
 
 ```js
 const record = [
-  { year: "2015", result: "W"},
-  { year: "2014", result: "N/A"},
-  { year: "2013", result: "L"},
+  { year: "2015", result: "resultValue"},
+  { year: "2014", result: "resultValue"},
+  { year: "2013", result: "resultValue"},
   //...
 ]
 ```
